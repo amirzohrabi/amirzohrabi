@@ -1,61 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=170&section=header&text=AMIRHASAN%20ZOHRABI&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=Python%20Developer%20·%20Cybersecurity%20·%20Data%20Analyst&descSize=14&descColor=888888&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:000000&height=210&section=header&text=AMIRHASAN%20ZOHRABI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20DEVELOPER%20·%20CYBERSECURITY%20·%20DATA%20ANALYST&descSize=15&descColor=D9A5FF&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=480&lines=building+quietly.+shipping+when+ready." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=D9A5FF&center=true&vCenter=true&width=600&lines=%3E+breaking+things+to+understand+them.;%3E+building+secure+software.;%3E+Qom%2C+Iran." />
 
 </div>
 
 <br>
 
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### `#` about
+
+Software Engineering student based in **Qom, Iran**, writing Python and moving deep into **cybersecurity** and **penetration testing**. Also training ML models with NumPy, Pandas, and Matplotlib — breaking systems by day, building them by night.
+
+```bash
+$ cat skills.txt
+Python · C++ · C# · JavaScript · HTML/CSS
+Linux · Git · Network Security · Pentesting · ML
 ```
-> whoami
-Software Engineering student · Qom, Iran
-Python · Security · Machine Learning
-```
 
-Focused on writing clean, secure software — and slowly moving deeper into cybersecurity and penetration testing while building practical ML skills with Python.
+</td>
+<td width="40%" valign="top" align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=amirzohrabi&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9A5FF&icon_color=FF3864&text_color=E8E8E8" />
 
-### Stack
-
-`Python` `C++` `C#` `JavaScript` `HTML/CSS` `Linux` `Git`
-`NumPy` `Pandas` `Matplotlib`
-
-**Security interests** — Network Security · Penetration Testing · Cloud Security
+</td>
+</tr>
+</table>
 
 <br>
 
-### Working on
+### `#` currently building
 
-License plate detection & OCR for Iranian plates (ALPR) — dataset prep and model training in Python.
-
-<br>
-
-### Certifications
-
-- Python Programming (Advanced) — Tehran Institute of Technology
-- Machine Learning with Python — FaraDars
-- C++ Programming — FaraDars
-- HTML & CSS — Toplearn
+**Iranian License Plate Detection & OCR (ALPR)** — a computer-vision pipeline for detecting and reading license plates, currently in dataset prep and model training.
 
 <br>
+
+### `#` certifications
+
+<img src="https://img.shields.io/badge/Python_(Advanced)-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
+<img src="https://img.shields.io/badge/HTML_%26_CSS-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
+
+<br><br>
+
+### `#` contribution grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirzohrabi/amirzohrabi/output/github-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/amirzohrabi/amirzohrabi/output/github-snake.svg">
+</picture>
+
+<br><br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirzohrabi&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=777777&text_color=999999" height="150"/>
+[![Gmail](https://img.shields.io/badge/-amirhasanzohrabi@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF3864)](mailto:amirhasanzohrabi@gmail.com)
 
 </div>
 
-<br>
-
-<div align="center">
-
-[amirhasanzohrabi@gmail.com](mailto:amirhasanzohrabi@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0D0D0D&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:000000&height=90&section=footer" width="100%"/>
