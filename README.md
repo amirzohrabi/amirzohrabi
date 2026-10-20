@@ -1,66 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:000000&height=210&section=header&text=AMIRHASAN%20ZOHRABI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20DEVELOPER%20·%20CYBERSECURITY%20·%20DATA%20ANALYST&descSize=15&descColor=D9A5FF&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=180&section=header&text=AMIRHASAN%20ZOHRABI&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20·%20Cybersecurity%20Enthusiast%20·%20Data%20Analyst&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=D9A5FF&center=true&vCenter=true&width=600&lines=%3E+breaking+things+to+understand+them.;%3E+building+secure+software.;%3E+Qom%2C+Iran." />
+<br>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=amirzohrabi.amirzohrabi&color=blueviolet&style=flat-square)
+[![Email](https://img.shields.io/badge/amirhasanzohrabi%40gmail.com-24243e?style=flat-square&logo=gmail&logoColor=FF6B6B)](mailto:amirhasanzohrabi@gmail.com)
 
 </div>
 
 <br>
 
-<table width="100%">
+## 🔐 About
+
+Software Engineering student and Python developer based in **Qom, Iran**, focused on building secure, data-driven software. Currently developing skills across **cybersecurity**, **penetration testing**, and **machine learning** — applying Python-based ML models with NumPy, Pandas, and Matplotlib.
+
+<br>
+
+## ⚙️ Tech Stack
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="50%">
 
-### `#` about
-
-Software Engineering student based in **Qom, Iran**, writing Python and moving deep into **cybersecurity** and **penetration testing**. Also training ML models with NumPy, Pandas, and Matplotlib — breaking systems by day, building them by night.
-
-```bash
-$ cat skills.txt
-Python · C++ · C# · JavaScript · HTML/CSS
-Linux · Git · Network Security · Pentesting · ML
-```
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-24243e?style=flat-square&logo=python&logoColor=4B8BBE"/>
+<img src="https://img.shields.io/badge/C++-24243e?style=flat-square&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-24243e?style=flat-square&logo=c-sharp&logoColor=9B4F96"/>
+<img src="https://img.shields.io/badge/JavaScript-24243e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirzohrabi&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9A5FF&icon_color=FF3864&text_color=E8E8E8" />
+**Web & Tools**
+<br>
+<img src="https://img.shields.io/badge/HTML5-24243e?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-24243e?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Linux-24243e?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-24243e?style=flat-square&logo=git&logoColor=F05032"/>
 
 </td>
 </tr>
 </table>
 
+**Focus Areas**
+<br>
+<img src="https://img.shields.io/badge/Network_Security-24243e?style=flat-square&color=302B63&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-24243e?style=flat-square&color=302B63&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Cloud_Security-24243e?style=flat-square&color=302B63&labelColor=24243e"/>
+<img src="https://img.shields.io/badge/Machine_Learning-24243e?style=flat-square&color=302B63&labelColor=24243e"/>
+<br>
+<img src="https://img.shields.io/badge/NumPy-24243e?style=flat-square&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-24243e?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/Matplotlib-24243e?style=flat-square"/>
+
 <br>
 
-### `#` currently building
-
-**Iranian License Plate Detection & OCR (ALPR)** — a computer-vision pipeline for detecting and reading license plates, currently in dataset prep and model training.
-
-<br>
-
-### `#` certifications
-
-<img src="https://img.shields.io/badge/Python_(Advanced)-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
-<img src="https://img.shields.io/badge/HTML_%26_CSS-000000?style=for-the-badge&labelColor=000000&color=6A0DAD"/>
-
-<br><br>
-
-### `#` contribution grid
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirzohrabi/amirzohrabi/output/github-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/amirzohrabi/amirzohrabi/output/github-snake.svg">
-</picture>
-
-<br><br>
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-amirhasanzohrabi@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF3864)](mailto:amirhasanzohrabi@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=amirzohrabi&show_icons=true&hide_border=true&bg_color=0F0C29&title_color=A685E2&icon_color=FF6B6B&text_color=C5C5C5" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirzohrabi&hide_border=true&background=0F0C29&ring=A685E2&fire=FF6B6B&currStreakLabel=A685E2&sideLabels=C5C5C5&currStreakNum=C5C5C5&sideNums=C5C5C5&dates=6B6B6B" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzohrabi&layout=compact&hide_border=true&bg_color=0F0C29&title_color=A685E2&text_color=C5C5C5" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:000000&height=90&section=footer" width="100%"/>
+<br>
+
+## 🏅 Certifications
+
+- C++ Programming — FaraDars
+- Python Programming (Advanced) — Tehran Institute of Technology
+- Machine Learning with Python — FaraDars
+- HTML & CSS — Toplearn
+
+<br>
+
+## 📫 Contact
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Email%20Me-24243e?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:amirhasanzohrabi@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
